@@ -89,16 +89,3 @@ for data_temp in data:
         plt.clf()
         plt.close()
         
-    
-    
-    
-
-
-    
-    
-    
-    
-    
-    
-
-
